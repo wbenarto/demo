@@ -1,11 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-
-
       <div>
         <p>Hello yall lets do  test build git test branch</p>
         <p>Testing deployment to AWS</p>
