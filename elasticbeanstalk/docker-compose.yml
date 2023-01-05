@@ -1,7 +1,7 @@
 version: "3.8"
 services:
   backend:
-    image: "wbenarto/springboot-react-fullstack:5.1.2023.18.48.36"
+    image: "wbenarto/springboot-react-fullstack:5.1.2023.19.38.16"
     ports:
       - "80:8080"
     restart: "always"
