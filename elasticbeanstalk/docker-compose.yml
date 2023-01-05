@@ -2,7 +2,7 @@ version: "3.8"
 services:
   backend:
 
-    image: "wbenarto/springboot-react-fullstack:latest"
+    image: "wbenarto/springboot-react-fullstack:5.1.2023.23.47.15"
 
     ports:
       - "80:8080"
